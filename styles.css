@@ -43,6 +43,7 @@ a, .fonting{
 .top-mid {
     display: flex;
     justify-content: space-between;
+    max-width: 800px;
 }
 .topmid-style {
     width: 400px;
